@@ -1,4 +1,4 @@
-package com.lambdas.learning;
+package com.lamdas.learning;
 
 //see how lambda is used
 @FunctionalInterface

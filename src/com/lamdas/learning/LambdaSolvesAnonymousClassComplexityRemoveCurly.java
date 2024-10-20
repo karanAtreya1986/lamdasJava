@@ -1,4 +1,4 @@
-package com.lambdas.learning;
+package com.lamdas.learning;
 
 //same code avoiding anonymous classes and using lamdas directly.
 @FunctionalInterface

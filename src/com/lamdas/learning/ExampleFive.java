@@ -1,4 +1,4 @@
-package com.lambdas.learning;
+package com.lamdas.learning;
 
 import java.awt.Rectangle;
 

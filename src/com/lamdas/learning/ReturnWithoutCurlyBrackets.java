@@ -1,4 +1,4 @@
-package com.lambdas.learning;
+package com.lamdas.learning;
 
 abstract interface returnInterface {
 	public String getMessage(String passMessage);
